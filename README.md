@@ -9,10 +9,13 @@
   - <a href="https://github.com/ShimonDasgupta/Social_Network-Analysis">Social Network Analysis
 <h2>📊 Data Science Projects</h2>
 
+  - <a href="https://github.com/ShimonDasgupta/Covid-19-Analysis">Covid-19 Analysis
+
 <h2>💼 Business Projects</h2>
 
 <h2>🤳 Connect with me </h2>
 
+  Email: shimondasgupta@gmail.com
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
