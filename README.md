@@ -13,6 +13,8 @@
 
   - <a href="https://github.com/ShimonDasgupta/Covid-19-Analysis">Covid-19 Analysis
 
+  - <a href="https://github.com/ShimonDasgupta/Airline-Emissions-Experiment">Airline Emissions Experiment 
+
 <h2>💼 Business Projects</h2>
 
 <h2>🤳 Connect with me </h2>
