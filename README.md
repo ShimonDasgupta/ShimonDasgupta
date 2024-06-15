@@ -7,6 +7,8 @@
   - <a href="https://github.com/ShimonDasgupta/NBA-3-Point-AVG/tree/main">NBA 3-Point Classifier
 
   - <a href="https://github.com/ShimonDasgupta/Social_Network-Analysis">Social Network Analysis
+
+  - <a href="https://github.com/ShimonDasgupta/Airline-Customer-Satisfaction">Customer Airline Satisfaction Analysis
 <h2>📊 Data Science Projects</h2>
 
   - <a href="https://github.com/ShimonDasgupta/Covid-19-Analysis">Covid-19 Analysis
